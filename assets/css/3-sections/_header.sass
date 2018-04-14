@@ -1,8 +1,10 @@
 header
-  height: 90px
+  // height: 90px
+  letter-spacing: 10px
   .logo
-    float: left
-    margin: 30px
+    // float: left
+    text-align: center
+    margin-top: 30px
     font:
       size: 24px
       weight: 700
@@ -11,6 +13,9 @@ header
       color: rgba(0,0,0,1)
       &:hover
         color: $accent-color
+    .profilePic
+        border-radius: 50%
+        box-shadow: 0 0 0 5px rgba(51,51,51,.07)
   nav
     float: right
     margin: 30px 30px 0 0
@@ -27,7 +32,7 @@ header
 @media (max-width: 768px)
   header
     .logo
-      margin: 10px 30px 0px 0px
+      margin: 10px 30px 0px 30px      
     nav
       margin: 0px
       margin-top: 18px
