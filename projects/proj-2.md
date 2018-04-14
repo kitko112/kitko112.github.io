@@ -1,8 +1,21 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Customer Management System'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+**Hair Logics** is a Hong Kong-based solan, it locates at Tsim Sha Tsui and is comprised of professional hair stylist.
+They need a system to store the customer information, record the transaction history, and calculate the redemption point and usage.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+I developed a simple MS access file, which served the basic CRUD.
+
+{% include image.html url="" image="projects/proj-2/custSys-addNewCust.gif" %}
+
+{% include image.html url="" image="projects/proj-2/custSys-editCust.gif" %}
+
+{% include image.html url="" image="projects/proj-2/custSys-cashDollor.gif" %}
+
+{% include image.html url="" image="projects/proj-2/custSys-prepay.gif" %}
+
+{% include image.html url="" image="projects/proj-2/custSys-transaction.gif" %}
+
+{% include image.html url="" image="projects/proj-2/custSys-setting.gif" %}

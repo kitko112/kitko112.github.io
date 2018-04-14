@@ -1,9 +1,12 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Heart Sell'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+**Heart Sell Ltd** is a Hong Kong-based store, it helps customer purchase products from oversea, their business model works because there are lots of fabulous goods not for retail in Hong Kong. Their strategy is to attract teen audience, so most of the products are related to latest trendy fashion. 
+This website push Heart Sell into a higher level as they are not only serving Hong Kong customers, but also customers from different regions.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+My friend and I built the whole website together, I was responsible for the UI with responsive style. And it was developed with Angular JS.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html url="" image="projects/proj-1/mobileV01.jpg" %}
+
+{% include image.html url="" image="projects/proj-1/mobileV02.jpg" %}

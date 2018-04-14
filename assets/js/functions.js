@@ -9,6 +9,7 @@ $(function() {
 	$(".biglink").fitText(1.5);
 
 	$('textarea').autosize();
+	$("#main-frame").fadeIn(1000);
 });
 
 // smoothScroll function is applied from the document ready function
