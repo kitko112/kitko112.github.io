@@ -58,6 +58,7 @@ projects:
 
 social:
 # - {icon: 'twitter', link: '#'}
+- {icon: 'stack-overflow', link: 'https://stackoverflow.com/users/6626508/kitko112'}
 - {icon: 'instagram', link: 'https://www.instagram.com/kitko112'}
 - {icon: 'github', link: 'https://github.com/kitko112'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/kit-ko-12b656133'}
