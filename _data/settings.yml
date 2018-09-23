@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-# - {name: 'PROJECTS', url: ''}
-# - {name: 'ABOUT', url: 'pages/about.html'}
+- {name: 'PROJECT', url: ''}
+- {name: 'MOVIE', url: 'pages/about.html'}
 
 #-------------------------------
 # SEO Section
@@ -49,9 +49,9 @@ contact: >
 #-------------------------------
 # Work Section
 
-projects:
-- {name: 'HeartSell', folder: 'proj-1', thumb: 'heartsell_main.jpg', file: 'projects/proj-1.html'}
-- {name: 'Customer Management System', folder: 'proj-2', thumb: 'hairlogic_pricelist.jpg', file: 'projects/proj-2.html'}
+project:
+- {name: 'HeartSell', folder: 'proj-1', thumb: 'heartsell_main.jpg', file: 'project/proj-1.html'}
+- {name: 'Customer Management System', folder: 'proj-2', thumb: 'hairlogic_pricelist.jpg', file: 'project/proj-2.html'}
 
 #-------------------------------
 # Contact Section
