@@ -7,6 +7,6 @@ This website push Heart Sell into a higher level as they are not only serving Ho
 
 My friend and I built the whole website together, I was responsible for the UI with responsive style. And it was developed with Angular JS.
 
-{% include image.html url="" image="projects/proj-1/mobileV01.jpg" %}
+{% include image.html url="" image="project/proj-1/mobileV01.jpg" %}
 
-{% include image.html url="" image="projects/proj-1/mobileV02.jpg" %}
+{% include image.html url="" image="project/proj-1/mobileV02.jpg" %}
