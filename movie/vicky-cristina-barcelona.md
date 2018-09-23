@@ -5,7 +5,6 @@ title: 'Vicky Cristina Barcelona'
 
 #### Vicky Cristina Barcelona
 **Watched on 19 Sep 2019**
-{% include cover-image.html url="" image="movie/vicky-cristina-barcelona/cover.jpg" %}
 
 **Movie Info from Rotten Tomato:**  
 Vicky (Rebecca Hall) and Cristina (Scarlett Johansson), these two young Americans spend a summer in Spain and meet a flamboyant artist Antonio (Javier Bardem) and his beautiful but insane ex-wife Elena (Penelope Cruz). Vicky is straight-laced and about to be married. Cristina is a sexually adventurous free spirit. When they all become amorously entangled, both comedic and harrowing results ensue.
