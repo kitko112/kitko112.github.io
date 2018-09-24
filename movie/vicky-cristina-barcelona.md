@@ -10,7 +10,7 @@ title: 'Vicky Cristina Barcelona'
 Vicky (Rebecca Hall) and Cristina (Scarlett Johansson), these two young Americans spend a summer in Spain and meet a flamboyant artist Antonio (Javier Bardem) and his beautiful but insane ex-wife Elena (Penelope Cruz). Vicky is straight-laced and about to be married. Cristina is a sexually adventurous free spirit. When they all become amorously entangled, both comedic and harrowing results ensue.
 
 **My Opinion**  
-In "Vicky Cristina Barcelona", Woody Allen hypothesized why even the meant-to-be couple cannot stay together when time goes by, there is a line from Antonio to Cristina which keeps me thinking, 
+In "Vicky Cristina Barcelona", Woody Allen mentioned why even the meant-to-be couple cannot stay together when time goes by, there is a line from Antonio to Cristina which keeps me thinking, 
 
 "love requires such a perfect balance. It's... like the human body. It may turn that you have all the vitamins and minerals, but if... there is minus a single, tiny ingredient... missing, like, like, like, like, ooh, like salt, for example... one dies."
 
