@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'PROJECT', url: ''}
-- {name: 'MOVIE', url: 'movie/vicky-cristina-barcelona.html'}
+# - {name: 'MOVIE', url: 'movie/vicky-cristina-barcelona.html'}
 
 #-------------------------------
 # SEO Section
