@@ -50,6 +50,7 @@ contact: >
 # Work Section
 
 project:
+- {name: 'Instabeesy - Beesy Production', folder: 'proj-instabeesy', thumb: 'pic2.png', file: 'project/proj-instabeesy.html'}
 - {name: 'HeartSell', folder: 'proj-1', thumb: 'heartsell_main.jpg', file: 'project/proj-1.html'}
 - {name: 'Customer Management System', folder: 'proj-2', thumb: 'hairlogic_pricelist.jpg', file: 'project/proj-2.html'}
 

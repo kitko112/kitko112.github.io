@@ -1,7 +1,7 @@
 <section>
   <div class="thumb-container">
     {% for project in site.data.settings.project %}
-      <a href="{{ site.github.url }}/{{ project.file }}">
+      <a href="{{ site.github.url }}/{{ project.file }}" class="class-{{ forloop.index0 }}">
         <div class="thumb-unit" data-folder="{{ site.github.url }}/project/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/project/{{ project.folder }}/{{ project.thumb }})">
           <div class="thumb-overlay">
             <!-- <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong> -->
